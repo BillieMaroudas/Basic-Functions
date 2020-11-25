@@ -1,0 +1,5 @@
+between 1969 and 1973 at AT&T Bell Labs
+and used to re-implement the Unix operating system.
+one of the most widely used programming languages of all time,
+available for the majority of existing computer architectures and operating systems.
+by the American National Standards Institute (ANSI) since 1989 (see ANSI C) and subsequently by the International Organization for Standardization (ISO).

@@ -1,0 +1,7 @@
+else
+enum
+void
+name
+time1
+new_variable
+var+
