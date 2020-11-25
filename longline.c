@@ -1,17 +1,3 @@
-/*--------------------------------------------------------------------- 
----- 
-# Student's Name:
-
-# Assignment #1 Part ()
-
-# Lab Section:
-
-# TA's Name: (for the lab group above)
-# CMPUT 201, Class Section:
-
-# Instructor's Name: (for section above) 
-*-----------------------------------------------------------------------*/ 
-
 /*
 * C program that echoes all input lines that are longer than 40 characters
 */
