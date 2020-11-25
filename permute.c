@@ -1,16 +1,3 @@
-/*--------------------------------------------------------------------- 
----- 
-# Student's Name:
-
-# Assignment #1 Part ()
-
-# Lab Section:
-
-# TA's Name: (for the lab group above)
-# CMPUT 201, Class Section:
-
-# Instructor's Name: (for section above) 
-*-----------------------------------------------------------------------*/
 
 /*
 * C program that will print out all the permutations of a word
